@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Final Puzzle Room\finalPuzzle.cs" />
     <Compile Include="Assets\XR and Assets\VR Escape Room Assets\VR Beginner\Scripts\Gameplay\MagicReceiver.cs" />
     <Compile Include="Assets\Scripts\Final Puzzle Room\inFinalRoom.cs" />
+    <Compile Include="Assets\Scripts\Controllers and body\stopMovement.cs" />
     <Compile Include="Assets\XR and Assets\VR Escape Room Assets\VR Beginner\Scripts\Effects\SelectionOutline.cs" />
     <Compile Include="Assets\XR and Assets\VR Escape Room Assets\VR Beginner\Scripts\Effects\ShakeObject.cs" />
     <Compile Include="Assets\XR and Assets\VR Escape Room Assets\VR Beginner\Scripts\Gameplay\MagicBallProjectile.cs" />
@@ -139,7 +140,6 @@
     <Compile Include="Assets\XR and Assets\VR Escape Room Assets\VR Beginner\Scripts\System\InteractableLayerChange.cs" />
     <Compile Include="Assets\XR and Assets\VR Escape Room Assets\VR Beginner\Scripts\Gameplay\EndingSequence.cs" />
     <Compile Include="Assets\XR and Assets\VR Escape Room Assets\VR Beginner\Scripts\Gameplay\IndestructableObj.cs" />
-    <Compile Include="Assets\Scripts\Controllers and body\stopMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
