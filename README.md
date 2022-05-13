@@ -1,4 +1,6 @@
 # Edutainment Escape Room
 
-- Download from Github 
-- Open in Unity Hub to access project.
+- Download as .zip from GitHub, or import in some other way
+- Unpack the folder
+- To access project file download Unity Hub and create project by opening folder
+- To play game run Edutainment Escape Room.exe which can be found inside the Game Folder
