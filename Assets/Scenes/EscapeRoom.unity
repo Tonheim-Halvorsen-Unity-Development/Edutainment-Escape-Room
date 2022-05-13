@@ -5087,7 +5087,7 @@ PrefabInstance:
     - target: {fileID: 122264362390233057, guid: 47a018cf9a71a3d4ca0b4a4e8f31729e,
         type: 3}
       propertyPath: m_text
-      value: z - x == y
+      value: z + x == y
       objectReference: {fileID: 0}
     - target: {fileID: 4486759905975316662, guid: 47a018cf9a71a3d4ca0b4a4e8f31729e,
         type: 3}
